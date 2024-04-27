@@ -43,7 +43,7 @@ Additional projects and analyses:
 
 View my introductory presentation:
 
-- [Intro Presentation](link_to_presentation.pdf) - Highlights of my background, skills, and professional experience.
+- [Intro Presentation](https://docs.google.com/presentation/d/1UwtzZ3fnbyR4f3UHboDq4QkCmDgepf7x/edit?usp=sharing&ouid=115579084944468900080&rtpof=true&sd=true) - Highlights of my background, skills, and professional experience.
 
 ---
 
