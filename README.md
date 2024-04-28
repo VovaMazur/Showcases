@@ -16,8 +16,7 @@ Welcome to my GitHub repository where I showcase my work in Financial Planning &
 
 Explore the following Business Intelligence projects:
 
-- **Sales Dashboard:** An interactive dashboard created using Power BI to visualize sales performance metrics.
-- **Customer Segmentation Analysis:** Utilized SQL and Python to perform customer segmentation based on behavioral patterns.
+- **Texas, Economic KPIs:** An illustrative dashboard showcasing key economic indicators for Texas.
 
 ---
 
@@ -25,8 +24,9 @@ Explore the following Business Intelligence projects:
 
 Discover my Financial Planning & Analysis work:
 
-- **Budgeting and Forecasting Models:** Developed robust budgeting and forecasting models to support strategic decision-making.
-- **Financial Performance Reports:** Prepared detailed financial performance reports including variance analysis and KPI tracking.
+- **Management reports:** An example of concise, one-page management report.
+- **Decision support:** A comprehensive finance model aiding pricing analysis for a company akin to Lyft, accompanied by recommendations.
+- **Portfolio analysis:** Delve into a hypothetical product portfolio analysis, revealing insights and trends.
 
 ---
 
@@ -34,8 +34,7 @@ Discover my Financial Planning & Analysis work:
 
 Additional projects and analyses:
 
-- **Market Research Report:** Comprehensive analysis of market trends and competitors in the consumer electronics industry.
-- **Operational Efficiency Analysis:** Identified cost-saving opportunities through process optimization initiatives.
+- **T&E software:** An in-depth review and recommendations for selecting Travel & Expense management software.
 
 ---
 
