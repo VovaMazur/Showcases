@@ -8,7 +8,7 @@ This dashboard provides insights into various economic metrics affecting the sta
 
 - Microsoft Power BI (data preparation & visualization)
 - Tableau (data preparation & visualization)
-- Looker Data Studio (data visualization)
+- [WIP] > Looker Data Studio (data visualization)
 
 ---
 
