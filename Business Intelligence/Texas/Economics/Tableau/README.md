@@ -1,6 +1,6 @@
 # Tableau Public Visualizations
 
-Explore the visualizations created using the datasets in Tableau Public. Please note that the functionality of the Public (free) version of Tableau is limited.
+Explore the visualizations created using the datasets in Tableau Public.
 
 ---
 
