@@ -27,6 +27,7 @@ Discover my Financial Planning & Analysis work:
 - **Management reports:** An example of concise, one-page management report.
 - **Decision support:** A comprehensive finance model aiding pricing analysis for a company akin to Lyft, accompanied by recommendations.
 - **Portfolio analysis:** Delve into a hypothetical product portfolio analysis, revealing insights and trends.
+- **Anaplan / Alteryx Certifications:** Some sample works done during the latest certifications.
 
 ---
 
