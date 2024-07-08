@@ -16,6 +16,7 @@ Welcome to my GitHub repository where I showcase my work in Financial Planning &
 
 Explore the following Business Intelligence projects:
 
+- **Adventure Works - sample dashboard:** A sample dashboard based on the open dataset of Adventure Works DB.
 - **Texas, Economic KPIs:** An illustrative dashboard showcasing key economic indicators for Texas.
 
 ---
