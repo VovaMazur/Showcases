@@ -52,7 +52,7 @@ View my introductory presentation:
 
 Connect with me and view my credentials:
 
-- [Latest CV](https://drive.google.com/drive/u/0/folders/1XTCR0t1zdCMxGnFwMWU0pwkEsvZDnqFf): 1 pager CV for the person (not ATS :))
+- [Latest CV](https://drive.google.com/drive/u/0/folders/1XTCR0t1zdCMxGnFwMWU0pwkEsvZDnqFf): CV for the person (not ATS :))
 - [LinkedIn Profile](https://www.linkedin.com/in/volodymyrmazur/)
 
 ---
