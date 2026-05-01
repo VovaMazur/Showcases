@@ -8,7 +8,7 @@ Welcome to my GitHub repository where I showcase my work in Financial Planning &
 - [Financial Planning & Analysis (FP&A)](#financial-planning--analysis-fpa)
 - [Other](#other)
 - [Intro Presentation](#intro-presentation)
-- [LinkedIn](#cv-and-linkedin)
+- [LinkedIn](#linkedin)
 
 ---
 
