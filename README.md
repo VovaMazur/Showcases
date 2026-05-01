@@ -8,7 +8,7 @@ Welcome to my GitHub repository where I showcase my work in Financial Planning &
 - [Financial Planning & Analysis (FP&A)](#financial-planning--analysis-fpa)
 - [Other](#other)
 - [Intro Presentation](#intro-presentation)
-- [CV and LinkedIn](#cv-and-linkedin)
+- [LinkedIn](#cv-and-linkedin)
 
 ---
 
@@ -48,11 +48,10 @@ View my introductory presentation:
 
 ---
 
-## CV and LinkedIn
+## LinkedIn
 
 Connect with me and view my credentials:
 
-- [Latest CV](https://drive.google.com/drive/u/0/folders/1XTCR0t1zdCMxGnFwMWU0pwkEsvZDnqFf): CV for the person (not ATS :))
 - [LinkedIn Profile](https://www.linkedin.com/in/volodymyrmazur/)
 
 ---
